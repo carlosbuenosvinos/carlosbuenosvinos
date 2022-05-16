@@ -37,6 +37,8 @@ Ansistrano is an Ansible Galaxy roles to easily deploy and rollback your scripti
 - [Introducción a Domain-Driven Design en Tarragona Developers (tgndevs)](https://www.youtube.com/watch?v=dDofYAOkpts) - June, 2017
 - [Live Coding en Geekshubs: Refactorizando Aplicaciones PHP](https://www.youtube.com/watch?v=AKBV7J-Ydxs) - May, 2017
 - ["Scrum, no eres tú, soy yo" - II Geek Developer Day - GeeksHub Academy](https://www.youtube.com/watch?v=uzRy7a98vqg) - November, 2016
+- [Charla sobre Integración Continua y Continuous Delivery por Carlos Buenosvinos](https://www.youtube.com/watch?v=vS6ne_GmAZE) - December, 2015
+- [PHP profesional](https://vimeo.com/23846442) - June, 2010
 
 ## 🎙 Interviews / Podcasts
 
