@@ -16,7 +16,7 @@ Command-Query Responsibility Segregation is an architectural style for developin
 
 ## Open Source
 
-### Ansistrano (https://ansistrano.com)
+### 🏗 Ansistrano
 
 ![Ansistrano Stars](https://img.shields.io/github/stars/ansistrano/deploy)
 
