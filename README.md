@@ -39,13 +39,13 @@ Ansistrano is an Ansible Galaxy roles to easily deploy and rollback your scripti
 
 ## 🎙 Interviews / Podcasts
 
-- [Carlos Buenosvinos + Diego Villuendas · SEAT Data Office // Bedrock @ LAPIPA_Studios](https://www.listennotes.com/podcasts/data-stand-up-con/carlos-buenosvinos-diego-HpqG26d5LTY/)
-- [WR 86: Desarrollo de software con Carlos Buenosvinos](https://www.danielprimo.io/blog/desarrollo-de-software-con-carlos-buenosvinos)
 - [TTT2x16: Innovación en la movilidad urbana con Carlos Buenosvinos, CEO & CTO de SEAT:CODE](https://www.youtube.com/watch?v=mMEIPiz1hmc) - January, 2022
 - [PODCAST 🎧 I am Geek 🚀 Episodio 3 - Negocio y tecnología con Carlos Buenosvinos](https://www.youtube.com/watch?v=ohkhoACB7L8) - October, 2021
 - [Activostech: de los SMS a los hologramas](https://www.youtube.com/watch?v=wIFykfHjSmI) - September, 2021
+- [Carlos Buenosvinos + Diego Villuendas · SEAT Data Office // Bedrock @ LAPIPA_Studios](https://www.listennotes.com/podcasts/data-stand-up-con/carlos-buenosvinos-diego-HpqG26d5LTY/) - March, 2021
 - [BBL con Carlos Buenosvinos de SEAT:CODE](https://www.youtube.com/watch?v=Nz0yZp96Kkw) - January, 2021
 - [Carlos Buenosvinos CEO & CTO of SEAT:CODE shares some insights based on our experience](https://www.youtube.com/watch?v=hG_Br_ZtWHw) - March, 2021
 - [¿Cómo contribuye el big data a la mejora de la seguridad vial?](https://www.youtube.com/watch?v=wA0Up6ntfW0) - March, 2021
 - [FROM THE PRODUCTION LINE TO A LINE OF CODE | SEAT](https://www.youtube.com/watch?v=WbRlTVOqfas) - November, 2020
+- [WR 86: Desarrollo de software con Carlos Buenosvinos](https://www.danielprimo.io/blog/desarrollo-de-software-con-carlos-buenosvinos) - May, 2019
 - [Entrevista Carlos Buenosvinos: Director Técnico Xing / Ex-CTO Atrápalo](https://www.youtube.com/watch?v=3NDTjXnhvok) - September, 2016
