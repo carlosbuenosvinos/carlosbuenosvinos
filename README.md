@@ -36,7 +36,11 @@ What an incredible 2018 and 2019 for the PHP community! Part of the PHP Core Tea
 
 ### 🏗 Ansistrano
 
-![Ansistrano Stars](https://img.shields.io/github/stars/ansistrano/deploy)
+[![Ansistrano Stars](https://img.shields.io/github/stars/ansistrano/deploy?label=github%20stars&logo=github&style=flat-square)](https://github.com/ansistrano/deploy)
+[![Today Deployments](https://img.shields.io/badge/dynamic/json.svg?label=today%20deployments&uri=https%3A%2F%2Fansistrano.com%2Finfo&query=deployments.today&colorB=green&suffix=%20deployments&style=flat-square)](https://ansistrano.com)
+[![Month Deployments](https://img.shields.io/badge/dynamic/json.svg?label=month%20deployments&uri=https%3A%2F%2Fansistrano.com%2Finfo&query=deployments.month&colorB=green&suffix=%20deployments&style=flat-square)](https://ansistrano.com)
+[![Year Deployments](https://img.shields.io/badge/dynamic/json.svg?label=year%20deployments&uri=https%3A%2F%2Fansistrano.com%2Finfo&query=deployments.year&colorB=green&suffix=%20deployments&style=flat-square)](https://ansistrano.com)
+[![Total Deployments](https://img.shields.io/badge/dynamic/json.svg?label=overall%20deployments&uri=https%3A%2F%2Fansistrano.com%2Finfo&query=deployments.total&colorB=green&suffix=%20deployments&style=flat-square)](https://ansistrano.com)
 
 Ansistrano is an Ansible Galaxy roles to easily deploy and rollback your scripting applications written in PHP, Python, NodeJS, or Ruby.
 
