@@ -20,19 +20,19 @@ Command-Query Responsibility Segregation is an architectural style for developin
 
 ## 🎭 Conference Organizer
 
-### DevOps Barcelona Conference
+### 🚠 DevOps Barcelona Conference
 
 We feel passionated and inspired by everyone in the DevOps community. From the small Open Source Projects to the Big Cloud Players. This Conference is for every SysAdmin, Ops, DevOps, Developer, Manager or Techie who wants to level up. For those teams that want to leave a dent both in their companies and in the community.
 
 [Website](https://devops.barcelona)
 
-### PHP Barcelona Conference
+### 🐘 PHP Barcelona Conference
 
 What an incredible 2018 and 2019 for the PHP community! Part of the PHP Core Team that was working for Zend left. Some of them found excellent companies and they are rocking more than ever, like Nikita at JetBrains. PHP 7.4 is about to be released, and PHP 8 has been branched. Laravel and Symfony have healthy growth. JIT is part of the imminent future, and I/O non-blocking frameworks are getting more often adopted in production.
 
 [Website](https://php.barcelona)
 
-## Open Source
+## 💻 Open Source
 
 ### 🏗 Ansistrano
 
