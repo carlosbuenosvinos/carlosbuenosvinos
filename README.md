@@ -2,6 +2,10 @@
 
 - [LinkedIn](https://www.linkedin.com/in/carlosbuenosvinos/)
 
+## 🌭 Companies
+
+## 🌭 External Consultant
+
 ## 📖 Book Author
 
 ### 📙 Domain-Driven Design in PHP (2016)
