@@ -40,6 +40,7 @@ Ansistrano is an Ansible Galaxy roles to easily deploy and rollback your scripti
 ## 🎙 Interviews / Podcasts
 
 - [TTT2x16: Innovación en la movilidad urbana con Carlos Buenosvinos, CEO & CTO de SEAT:CODE](https://www.youtube.com/watch?v=mMEIPiz1hmc) - January, 2022
+- [Inside the brands: SEAT:CODE, la fábrica de software | CASA SEAT](https://www.youtube.com/watch?v=NtUVEqDkbjQ) - January, 2022
 - [PODCAST 🎧 I am Geek 🚀 Episodio 3 - Negocio y tecnología con Carlos Buenosvinos](https://www.youtube.com/watch?v=ohkhoACB7L8) - October, 2021
 - [SEAT:CODE, el braç digital i disruptiu de SEAT](https://www.youtube.com/watch?v=wQYRGdq_akw) - October, 2021
 - [Activostech: de los SMS a los hologramas](https://www.youtube.com/watch?v=wIFykfHjSmI) - September, 2021
