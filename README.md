@@ -43,6 +43,7 @@ Ansistrano is an Ansible Galaxy roles to easily deploy and rollback your scripti
 - [WR 86: Desarrollo de software con Carlos Buenosvinos](https://www.danielprimo.io/blog/desarrollo-de-software-con-carlos-buenosvinos)
 - [TTT2x16: Innovación en la movilidad urbana con Carlos Buenosvinos, CEO & CTO de SEAT:CODE](https://www.youtube.com/watch?v=mMEIPiz1hmc) - January, 2022
 - [PODCAST 🎧 I am Geek 🚀 Episodio 3 - Negocio y tecnología con Carlos Buenosvinos](https://www.youtube.com/watch?v=ohkhoACB7L8) - October, 2021
+- [Activostech: de los SMS a los hologramas](https://www.youtube.com/watch?v=wIFykfHjSmI) - September, 2021
 - [BBL con Carlos Buenosvinos de SEAT:CODE](https://www.youtube.com/watch?v=Nz0yZp96Kkw) - January, 2021
 - [Carlos Buenosvinos CEO & CTO of SEAT:CODE shares some insights based on our experience](https://www.youtube.com/watch?v=hG_Br_ZtWHw) - March, 2021
 - [¿Cómo contribuye el big data a la mejora de la seguridad vial?](https://www.youtube.com/watch?v=wA0Up6ntfW0) - March, 2021
