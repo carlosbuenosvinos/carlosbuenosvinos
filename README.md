@@ -49,7 +49,7 @@ Ansistrano is an Ansible Galaxy roles to easily deploy and rollback your scripti
 
 ## 👨🏻‍ Consultor
 
-<img src="logos/emagister.png" width="100"> <img src="logos/atrapalo.png" width="130"> <img src="logos/pccomponentes.png" width="100"> <img src="logos/opositatest.png" width="100">
+![logos.png](logos.png)
 
 ## 🎤 Talks
 
