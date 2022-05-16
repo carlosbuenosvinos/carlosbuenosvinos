@@ -67,6 +67,9 @@ Ansistrano is an Ansible Galaxy roles to easily deploy and rollback your scripti
 - [Live Coding en Geekshubs: Refactorizando Aplicaciones PHP](https://www.youtube.com/watch?v=AKBV7J-Ydxs) - May, 2017
 - ["Scrum, no eres tú, soy yo" - II Geek Developer Day - GeeksHub Academy](https://www.youtube.com/watch?v=uzRy7a98vqg) - November, 2016
 - [Charla sobre Integración Continua y Continuous Delivery por Carlos Buenosvinos](https://www.youtube.com/watch?v=vS6ne_GmAZE) - December, 2015
+- [Domain-Driven Design Tactical Patterns and CI at @AtrapaloEng](https://www.youtube.com/watch?v=uvKS6UCUZes) - October, 2014
+- [Introducción a Titanium](https://www.youtube.com/watch?v=v1imCCPfKwY) - August, 2012
+- [Introducción a Agile y Scrum](https://www.youtube.com/watch?v=Ng65pzl3RqM) - February, 2012
 - [PHP profesional](https://vimeo.com/23846442) - June, 2010
 
 ## 🎙 Interviews / Podcasts
@@ -86,3 +89,38 @@ Ansistrano is an Ansible Galaxy roles to easily deploy and rollback your scripti
 - [WR 86: Desarrollo de software con Carlos Buenosvinos](https://www.danielprimo.io/blog/desarrollo-de-software-con-carlos-buenosvinos) - May, 2019
 - [#WhoWeAre at XING Barcelona: Carlos Buenosvinos, Technical Director](https://www.youtube.com/watch?v=mccOxWJKCKo) - October, 2017
 - [Entrevista Carlos Buenosvinos: Director Técnico Xing / Ex-CTO Atrápalo](https://www.youtube.com/watch?v=3NDTjXnhvok) - September, 2016
+
+## 📐 Rigor Talks
+
+- [Rigor Talks - PHP - Introduction (Spanish)](https://www.youtube.com/watch?v=aKcmbOZV9mA) - November, 2016
+- [Rigor Talks - PHP - #1 - Guard Clauses (Spanish)](https://www.youtube.com/watch?v=Ttk9fDGwjrY) - December, 2016
+- [Rigor Talks - PHP - #2 - Self-Encapsulation (Spanish)](https://www.youtube.com/watch?v=4PVUiMOVl5w) - December, 2016
+- [Rigor Talks - PHP - #3 - Named Constructors I (Spanish)](https://www.youtube.com/watch?v=LjEG7AR-MOg) - December, 2016
+- [Rigor Talks - PHP - #4 - Named Constructors II (Spanish)](https://www.youtube.com/watch?v=RE3cAEFSsDc) - December, 2016
+- [Rigor Talks - PHP - #5 - Named Constructors III (Spanish)](https://www.youtube.com/watch?v=w2CfVDtQGc0) - December, 2016
+- [Rigor Talks - PHP - #6 - Named Constructors IV (Spanish)](https://www.youtube.com/watch?v=210Ed5PeK4g) - December, 2016
+- [Rigor Talks - PHP - #7 - Test Class (Spanish)](https://www.youtube.com/watch?v=8UFAyC173JU) - December, 2016
+- [Rigor Talks - PHP - #8 - Self-Shunt (Spanish)](https://www.youtube.com/watch?v=Ds-Iop1zB24) - December, 2016
+- [Rigor Talks - PHP - #9 - Self-Shunt II (PHP7) (Spanish)](https://www.youtube.com/watch?v=gpUDgEVw9tM) - January, 2017
+- [Rigor Talks - PHP - #10 - Self-Shunt III (Spanish)](https://www.youtube.com/watch?v=e35igS90MkI) - January, 2017
+- [Rigor Talks - PHP - #11 - Immutability (Spanish)](https://www.youtube.com/watch?v=577bfQMI5GY) - January, 2017
+- [Rigor Talks - PHP - #12 - Mutant Testing (Spanish)](https://www.youtube.com/watch?v=kUb9JyIA5Kg) - January, 2017
+- [Rigor Talks - PHP - #13 - Refactor Use Case I (Spanish)](https://www.youtube.com/watch?v=-RwBRikBXYc) - January, 2017
+- [Rigor Talks - PHP - #14 - Refactor Use Case II (Spanish)](https://www.youtube.com/watch?v=1W7fj-liFqE) - February, 2017
+- [Rigor Talks - PHP - #15 - Refactor Use Case III (Spanish)](https://www.youtube.com/watch?v=81dDKueYDLM) - February, 2017
+- [Rigor Talks - PHP - #16 - Refactor Use Case IV (Spanish)](https://www.youtube.com/watch?v=4F1YFzoT8Qc) - February, 2017
+- [Rigor Talks - PHP - #17 - Refactor Use Case V (Spanish)](https://www.youtube.com/watch?v=sTqcwuPjQ-E) - February, 2017
+- [Rigor Talks - PHP - #18 - Tell-Don't-Ask (Spanish)](https://www.youtube.com/watch?v=9-pBrkvk4KA) - March, 2017
+- [Rigor Talks - PHP - #19 - Refactor Use Case VI (Spanish)](https://www.youtube.com/watch?v=kFJljyhOWpg) - March, 2017
+- [Rigor Talks - PHP - #20 - Application Services & Command Handlers (Spanish)](https://www.youtube.com/watch?v=6dwrRVt2wVg) - March, 2017
+- [Rigor Talks - PHP - #21 - Command Bus (Spanish)](https://www.youtube.com/watch?v=OIFwYYlO_Og) - April, 2017
+- [Rigor Talks - PHP - #22 - Domain Events (Spanish)](https://www.youtube.com/watch?v=9pua_1Bw4yo) - May, 2017
+- [Rigor Talks - PHP - #23 - Domain Events II (Spanish)](https://www.youtube.com/watch?v=dXcHRcvgcUc) - May, 2017
+- [Rigor Talks - PHP - #24 - Domain Events III (Spanish)](https://www.youtube.com/watch?v=uIu139WusKU) - May, 2017
+- [Rigor Talks - PHP - #25 - Persisting Domain Events (Spanish)](https://www.youtube.com/watch?v=h40hN2wfzU8) - May, 2017
+- [Rigor Talks - PHP - #26 - Events REST Distribution (Spanish)](https://www.youtube.com/watch?v=p0MM2kqOI-Y) - June, 2017
+- [Rigor Talks - PHP - #27 - Async Distribution of Domain Events with RabbitMQ (Spanish)](https://www.youtube.com/watch?v=dJ_CSd0TCxw) - June, 2017
+- [Rigor Talks - PHP - #28 - Sending Domain Events to Elastic (Spanish)](https://www.youtube.com/watch?v=gNkBcrY4xiE) - July, 2017
+- [Rigor Talks - PHP - #29 - Sending Domain Events to Elastic II (Spanish)](https://www.youtube.com/watch?v=_MvgA5P2ACQ) - July, 2017
+- [Rigor Talks - PHP - #30 - Sending Domain Events to Elastic III (Spanish)](https://www.youtube.com/watch?v=mj2w2ymCpSU) - July, 2017
+- [Rigor Talks - PHP - #31 - Viewing Domain Events with Kibana (Spanish)](https://www.youtube.com/watch?v=GBXKLLCU2rE) - August, 2017
