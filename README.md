@@ -1,5 +1,7 @@
 (WIP)
 
+- [LinkedIn](https://www.linkedin.com/in/carlosbuenosvinos/)
+
 ## 📖 Book Author
 
 ### 📙 Domain-Driven Design in PHP (2016)
