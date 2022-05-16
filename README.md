@@ -1,18 +1,19 @@
-# Carlos @Buenosvinos
+# Hi 🤟🏻, I'm Carlos @Buenosvinos
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/buenosvinos?label=twitter%20followers&logo=twitter&style=flat-square)](https://twitter.com/buenosvinos)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPOAykv_UgFa79_mub4Orbw?label=youtube%20followers&logo=youtube&style=flat-square)](https://www.youtube.com/user/carlosbuenosvinos)
-[![GitHub followers](https://img.shields.io/github/followers/carlosbuenosvinos?label=github%20followers&logo=github&style=flat-square)](https://github.com/carlosbuenosvinos)
+[![LinkedIn followers](https://img.shields.io/static/v1?label=linkedin%20followers&message=15.2K&color=blue&logoColor=blue&logo=linkedin&style=flat-square)](https://www.linkedin.com/in/carlosbuenosvinos/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/buenosvinos?label=twitter%20followers&color=lightblue&logoColor=lightblue&logo=twitter&style=flat-square)](https://twitter.com/buenosvinos)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPOAykv_UgFa79_mub4Orbw?label=youtube%20followers&color=red&logoColor=red&logo=youtube&style=flat-square)](https://www.youtube.com/user/carlosbuenosvinos)
+[![GitHub followers](https://img.shields.io/github/followers/carlosbuenosvinos?label=github%20followers&color=black&logoColor=black&logo=github&style=flat-square)](https://github.com/carlosbuenosvinos)
 
 ## 📖 Book Author
 
-### 📙 Domain-Driven Design in PHP (2016)
+### Domain-Driven Design in PHP (2016) 📙
 
 Discover DDD, Architectural Styles, Tactical Design Implementations, and Bounded Context Integration with PHP 7.4 examples
 
 [Website](https://leanpub.com/ddd-in-php) · [Amazon](https://www.amazon.es/Domain-Driven-Design-PHP-Carlos-Buenosvinos/dp/1787284948) · [Code examples](https://github.com/dddshelf) · [Goodreads](https://www.goodreads.com/book/show/26032410-domain-driven-design-in-php)
 
-### 📘 CQRS by Example (2022)
+### CQRS by Example (2022) 📘
 
 Command-Query Responsibility Segregation is an architectural style for developing applications that split the Domain Model in Read and Write operations in order to maximize semantics, performance, and scalability. What are all the benefits of CQRS? What are the drawbacks? In which cases does it worth applying it? How does it relate to Hexagonal Architecture? How do we properly implement the Write Model and Read Models? How do we keep in sync both sides? What are the following steps to move towards Event Sourcing? This book will answer all these questions and many more, guided through lots of practical examples.
 
@@ -20,13 +21,13 @@ Command-Query Responsibility Segregation is an architectural style for developin
 
 ## 🎭 Conference Organizer
 
-### 🚠 DevOps Barcelona Conference
+### DevOps Barcelona Conference 🚠
 
 We feel passionated and inspired by everyone in the DevOps community. From the small Open Source Projects to the Big Cloud Players. This Conference is for every SysAdmin, Ops, DevOps, Developer, Manager or Techie who wants to level up. For those teams that want to leave a dent both in their companies and in the community.
 
 [Website](https://devops.barcelona)
 
-### 🐘 PHP Barcelona Conference
+### PHP Barcelona Conference 🐘
 
 What an incredible 2018 and 2019 for the PHP community! Part of the PHP Core Team that was working for Zend left. Some of them found excellent companies and they are rocking more than ever, like Nikita at JetBrains. PHP 7.4 is about to be released, and PHP 8 has been branched. Laravel and Symfony have healthy growth. JIT is part of the imminent future, and I/O non-blocking frameworks are getting more often adopted in production.
 
@@ -34,7 +35,7 @@ What an incredible 2018 and 2019 for the PHP community! Part of the PHP Core Tea
 
 ## 💻 Open Source
 
-### 🏗 Ansistrano
+### Ansistrano 🏗
 
 [![Ansistrano Stars](https://img.shields.io/github/stars/ansistrano/deploy?label=github%20stars&logo=github&style=flat-square)](https://github.com/ansistrano/deploy)
 [![Today Deployments](https://img.shields.io/badge/dynamic/json.svg?label=today%20deployments&uri=https%3A%2F%2Fansistrano.com%2Finfo&query=deployments.today&colorB=green&suffix=%20deployments&style=flat-square)](https://ansistrano.com)
