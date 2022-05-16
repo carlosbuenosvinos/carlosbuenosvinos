@@ -12,7 +12,7 @@
 
 Discover DDD, Architectural Styles, Tactical Design Implementations, and Bounded Context Integration with PHP 7.4 examples
 
-[Website](https://leanpub.com/ddd-in-php) · [Code examples](https://github.com/dddshelf) · [Goodreads](https://www.goodreads.com/book/show/26032410-domain-driven-design-in-php)
+[Website](https://leanpub.com/ddd-in-php) · [Amazon](https://www.amazon.es/Domain-Driven-Design-PHP-Carlos-Buenosvinos/dp/1787284948) · [Code examples](https://github.com/dddshelf) · [Goodreads](https://www.goodreads.com/book/show/26032410-domain-driven-design-in-php)
 
 ### 📘 CQRS by Example (2022)
 
