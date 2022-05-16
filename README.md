@@ -49,6 +49,7 @@ Ansistrano is an Ansible Galaxy roles to easily deploy and rollback your scripti
 - [BBL con Carlos Buenosvinos de SEAT:CODE](https://www.youtube.com/watch?v=Nz0yZp96Kkw) - January, 2021
 - [Carlos Buenosvinos CEO & CTO of SEAT:CODE shares some insights based on our experience](https://www.youtube.com/watch?v=hG_Br_ZtWHw) - March, 2021
 - [¿Cómo contribuye el big data a la mejora de la seguridad vial?](https://www.youtube.com/watch?v=wA0Up6ntfW0) - March, 2021
+- [Barcelona Digital Talent Day 2020 - Jornada 1](https://youtu.be/XA2nS-hbdsI?t=3121) - December, 2020
 - [FROM THE PRODUCTION LINE TO A LINE OF CODE | SEAT](https://www.youtube.com/watch?v=WbRlTVOqfas) - November, 2020
 - [WR 86: Desarrollo de software con Carlos Buenosvinos](https://www.danielprimo.io/blog/desarrollo-de-software-con-carlos-buenosvinos) - May, 2019
 - [Entrevista Carlos Buenosvinos: Director Técnico Xing / Ex-CTO Atrápalo](https://www.youtube.com/watch?v=3NDTjXnhvok) - September, 2016
