@@ -1,6 +1,6 @@
 # Hi 🤟🏻, I'm Carlos @Buenosvinos
 
-[![LinkedIn followers](https://img.shields.io/static/v1?label=linkedin%20followers&message=15.2K&color=blue&logoColor=blue&logo=linkedin&style=flat-square)](https://www.linkedin.com/in/carlosbuenosvinos/)
+[![LinkedIn followers](https://img.shields.io/static/v1?label=linkedin%20followers&message=15.2k&color=blue&logoColor=blue&logo=linkedin&style=flat-square)](https://www.linkedin.com/in/carlosbuenosvinos/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/buenosvinos?label=twitter%20followers&color=lightblue&logoColor=lightblue&logo=twitter&style=flat-square)](https://twitter.com/buenosvinos)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPOAykv_UgFa79_mub4Orbw?label=youtube%20followers&color=red&logoColor=red&logo=youtube&style=flat-square)](https://www.youtube.com/user/carlosbuenosvinos)
 [![GitHub followers](https://img.shields.io/github/followers/carlosbuenosvinos?label=github%20followers&color=black&logoColor=black&logo=github&style=flat-square)](https://github.com/carlosbuenosvinos)
@@ -33,7 +33,7 @@ What an incredible 2018 and 2019 for the PHP community! Part of the PHP Core Tea
 
 [Website](https://php.barcelona)
 
-## 💻 Open Source
+## 💻 Open Source Creator
 
 ### Ansistrano 🏗
 
@@ -46,6 +46,11 @@ What an incredible 2018 and 2019 for the PHP community! Part of the PHP Core Tea
 Ansistrano is an Ansible Galaxy roles to easily deploy and rollback your scripting applications written in PHP, Python, NodeJS, or Ruby.
 
 [Website](https://ansistrano.com) · [GitHub Repository](https://github.com/ansistrano/deploy)
+
+## 👨🏻‍ Consultor
+
+![atrapalo](logos/atrapalo.png)
+![emagister](logos/emagister.png)
 
 ## 🎤 Talks
 
