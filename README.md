@@ -86,7 +86,7 @@ Ansistrano is an Ansible Galaxy roles to easily deploy and rollback your scripti
 - 📺 [¿Cómo contribuye el big data a la mejora de la seguridad vial?](https://www.youtube.com/watch?v=wA0Up6ntfW0) - March, 2021
 - 📺 [Barcelona Digital Talent Day 2020 - Jornada 1](https://youtu.be/XA2nS-hbdsI?t=3121) - December, 2020
 - 📺 [FROM THE PRODUCTION LINE TO A LINE OF CODE | SEAT](https://www.youtube.com/watch?v=WbRlTVOqfas) - November, 2020
-- [WR 86: Desarrollo de software con Carlos Buenosvinos](https://www.danielprimo.io/blog/desarrollo-de-software-con-carlos-buenosvinos) - May, 2019
+- 🎙 [WR 86: Desarrollo de software con Carlos Buenosvinos](https://www.danielprimo.io/blog/desarrollo-de-software-con-carlos-buenosvinos) - May, 2019
 - 📺 [#WhoWeAre at XING Barcelona: Carlos Buenosvinos, Technical Director](https://www.youtube.com/watch?v=mccOxWJKCKo) - October, 2017
 - 📺 [Entrevista Carlos Buenosvinos: Director Técnico Xing / Ex-CTO Atrápalo](https://www.youtube.com/watch?v=3NDTjXnhvok) - September, 2016
 
