@@ -5,7 +5,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPOAykv_UgFa79_mub4Orbw?label=youtube%20followers&color=red&logoColor=red&logo=youtube&style=flat-square)](https://www.youtube.com/user/carlosbuenosvinos)
 [![GitHub followers](https://img.shields.io/github/followers/carlosbuenosvinos?label=github%20followers&color=black&logoColor=black&logo=github&style=flat-square)](https://github.com/carlosbuenosvinos)
 
-## 👨🏻‍ Consultant
+## 💪 Consultant
 
 ![Logos](logos-white-background.png)
 
