@@ -5,6 +5,10 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPOAykv_UgFa79_mub4Orbw?label=youtube%20followers&color=red&logoColor=red&logo=youtube&style=flat-square)](https://www.youtube.com/user/carlosbuenosvinos)
 [![GitHub followers](https://img.shields.io/github/followers/carlosbuenosvinos?label=github%20followers&color=black&logoColor=black&logo=github&style=flat-square)](https://github.com/carlosbuenosvinos)
 
+## 👨🏻‍ Consultant
+
+![Logos](logos-white-background.png)
+
 ## 📖 Book Author
 
 ### Domain-Driven Design in PHP (2016) 📙
@@ -46,10 +50,6 @@ What an incredible 2018 and 2019 for the PHP community! Part of the PHP Core Tea
 Ansistrano is an Ansible Galaxy roles to easily deploy and rollback your scripting applications written in PHP, Python, NodeJS, or Ruby.
 
 [Website](https://ansistrano.com) · [GitHub Repository](https://github.com/ansistrano/deploy)
-
-## 👨🏻‍ Consultor
-
-![Logos](logos-white-background.png)
 
 ## 🎤 Talks
 
