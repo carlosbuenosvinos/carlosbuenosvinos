@@ -1,9 +1,15 @@
-# Hi 🤟🏻, I'm Carlos @Buenosvinos
+# ❤️ Why, How, and What
 
 [![LinkedIn followers](https://img.shields.io/static/v1?label=linkedin%20followers&message=15.2k&color=blue&logoColor=blue&logo=linkedin&style=flat-square)](https://www.linkedin.com/in/carlosbuenosvinos/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/buenosvinos?label=twitter%20followers&color=lightblue&logoColor=lightblue&logo=twitter&style=flat-square)](https://twitter.com/buenosvinos)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPOAykv_UgFa79_mub4Orbw?label=youtube%20followers&color=red&logoColor=red&logo=youtube&style=flat-square)](https://www.youtube.com/user/carlosbuenosvinos)
 [![GitHub followers](https://img.shields.io/github/followers/carlosbuenosvinos?label=github%20followers&color=black&logoColor=black&logo=github&style=flat-square)](https://github.com/carlosbuenosvinos)
+
+> **I have a mission, teams that excel.** I help tech teams become their best version.
+>
+> I connect team, leadership, and customers's hearts, brains, and guts to maximize impact (customer value, delivery, speed, and quality) by reducing waste and use the right technology for the company moment.
+> 
+> I do that by running consultancy, writing books, organizing conferences, developing open-source tools, speaking at conferences, and vblogging public content.
 
 ## 💪 Consultant
 
@@ -124,3 +130,8 @@ Ansistrano is an Ansible Galaxy roles to easily deploy and rollback your scripti
 - 📺 [Rigor Talks - PHP - #29 - Sending Domain Events to Elastic II (Spanish)](https://www.youtube.com/watch?v=_MvgA5P2ACQ) - July, 2017
 - 📺 [Rigor Talks - PHP - #30 - Sending Domain Events to Elastic III (Spanish)](https://www.youtube.com/watch?v=mj2w2ymCpSU) - July, 2017
 - 📺 [Rigor Talks - PHP - #31 - Viewing Domain Events with Kibana (Spanish)](https://www.youtube.com/watch?v=GBXKLLCU2rE) - August, 2017
+
+## 📰 Press
+
+- [Executive Conversations: SEAT innovates on AWS](https://aws.amazon.com/blogs/industries/executive-conversations-seat-innovates-on-aws/)
+- TBC
