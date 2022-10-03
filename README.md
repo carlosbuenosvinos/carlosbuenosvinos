@@ -96,7 +96,13 @@ Ansistrano is an Ansible Galaxy roles to easily deploy and rollback your scripti
 - 📺 [#WhoWeAre at XING Barcelona: Carlos Buenosvinos, Technical Director](https://www.youtube.com/watch?v=mccOxWJKCKo) - October, 2017
 - 📺 [Entrevista Carlos Buenosvinos: Director Técnico Xing / Ex-CTO Atrápalo](https://www.youtube.com/watch?v=3NDTjXnhvok) - September, 2016
 
-## 📐 Rigor Talks
+## 📐 Rigor Talks (Season #2)
+
+- 📺 [Agregados y Domain Services, una historia de amor incomprendida](https://www.youtube.com/watch?v=xfTQtC5zMws)  - September, 2022
+- 📺 [Cocinando Command Handlers "Ricos En Hierro" (No Anémicos)](https://www.youtube.com/watch?v=aVQHV-te0yA) - September, 2022
+
+
+## 📐 Rigor Talks (Season #1)
 
 - 📺 [Rigor Talks - PHP - Introduction (Spanish)](https://www.youtube.com/watch?v=aKcmbOZV9mA) - November, 2016
 - 📺 [Rigor Talks - PHP - #1 - Guard Clauses (Spanish)](https://www.youtube.com/watch?v=Ttk9fDGwjrY) - December, 2016
