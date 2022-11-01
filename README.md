@@ -59,7 +59,7 @@ Ansistrano is an Ansible Galaxy roles to easily deploy and rollback your scripti
 
 ## 🎤 Talks
 
-- 📺 Kit de supervivencia para CTOs y Engineering Managers @ Salmorejo Tech (to be uploaded) - May, 2022
+- 📺 [Kit de supervivencia para CTOs y Engineering Managers @ Salmorejo Tech](https://www.youtube.com/watch?v=KnIp07Y52Bo) - May, 2022
 - 📺 Giravolta, the SaaS Mobility Platform @ AWS Summit Madrid Keynote (to be uploaded) - May, 2022
 - 📺 [Arquitectura para CTOs | Carlos Buenosvinos, CTO de SEAT:CODE | #CTOSummit 🤘](https://www.youtube.com/watch?v=LXYUFf6iWl4) - March, 2022
 - 📺 [JUMP2DIGITAL I Ponencia Carlos Buenosvinos](https://www.youtube.com/watch?v=XWYCsvQyYE8) - December, 2021
@@ -100,7 +100,6 @@ Ansistrano is an Ansible Galaxy roles to easily deploy and rollback your scripti
 
 - 📺 [Agregados y Domain Services, una historia de amor incomprendida](https://www.youtube.com/watch?v=xfTQtC5zMws)  - September, 2022
 - 📺 [Cocinando Command Handlers "Ricos En Hierro" (No Anémicos)](https://www.youtube.com/watch?v=aVQHV-te0yA) - September, 2022
-
 
 ## 📐 Rigor Talks (Season #1)
 
