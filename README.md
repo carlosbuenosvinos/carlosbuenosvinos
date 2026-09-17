@@ -11,7 +11,7 @@
 > 
 > I do that by running consultancy, writing books, organizing conferences, developing open-source tools, speaking at conferences, and vblogging public content.
 
-## 💪 Consultant
+## 💪 Experience
 
 Over the years I've collaborated with a broad range of companies as consultant, CTO, engineering leader, or advisor:
 
@@ -189,4 +189,3 @@ Ansistrano is an Ansible Galaxy roles to easily deploy and rollback your scripti
 ## 📰 Press
 
 - [Executive Conversations: SEAT innovates on AWS](https://aws.amazon.com/blogs/industries/executive-conversations-seat-innovates-on-aws/)
-- TBC
