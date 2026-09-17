@@ -13,7 +13,45 @@
 
 ## 💪 Consultant
 
-![Logos](logos-white-background.png)
+Over the years I've collaborated with a broad range of companies as consultant, CTO, engineering leader, or advisor:
+
+<table>
+  <tr>
+    <td align="center" width="20%"><a href="https://www.ebay.com"><img src="logos/ebay.png" alt="eBay" height="40"/></a></td>
+    <td align="center" width="20%"><a href="https://www.hp.com"><img src="logos/hp.png" alt="HP" height="40"/></a></td>
+    <td align="center" width="20%"><a href="https://www.seat.com"><img src="logos/seat.png" alt="SEAT" height="40"/></a></td>
+    <td align="center" width="20%"><a href="https://code.seat"><img src="logos/seat-code.png" alt="SEAT:CODE" height="40"/></a></td>
+    <td align="center" width="20%"><a href="https://www.gmv.com"><img src="logos/gmv.png" alt="GMV" height="40"/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.atrapalo.com"><img src="logos/atrapalo.png" alt="Atrápalo" height="40"/></a></td>
+    <td align="center"><a href="https://www.emagister.com"><img src="logos/emagister.png" alt="Emagister" height="40"/></a></td>
+    <td align="center"><a href="https://www.xing.com"><img src="logos/xing.png" alt="XING" height="40"/></a></td>
+    <td align="center"><a href="https://www.pccomponentes.com"><img src="logos/pccomponentes.png" alt="PC Componentes" height="40"/></a></td>
+    <td align="center"><a href="https://www.opositatest.com"><img src="logos/oposita-test.png" alt="Oposita Test" height="40"/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.somenergia.coop"><img src="logos/som-energia.png" alt="Som Energia" height="40"/></a></td>
+    <td align="center"><a href="https://www.packlink.com"><img src="logos/packlink.png" alt="Packlink" height="40"/></a></td>
+    <td align="center"><a href="https://techpump.com"><img src="logos/techpump.png" alt="Techpump" height="40"/></a></td>
+    <td align="center"><a href="https://www.filmin.es"><img src="logos/filmin.png" alt="Filmin" height="40"/></a></td>
+    <td align="center"><a href="https://www.planetahuerto.es"><img src="logos/planeta-huerto.png" alt="Planeta Huerto" height="40"/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.freepik.com"><img src="logos/freepik.png" alt="Freepik" height="40"/></a></td>
+    <td align="center"><a href="https://www.nautal.com"><img src="logos/nautal.png" alt="Nautal" height="40"/></a></td>
+    <td align="center"><a href="https://www.qashops.com"><img src="logos/qashops.png" alt="Qashops" height="40"/></a></td>
+    <td align="center"><a href="https://www.cashconverters.es"><img src="logos/cashconverters.png" alt="Cash Converters" height="40"/></a></td>
+    <td align="center"><a href="https://enreach.com"><img src="logos/enreach.png" alt="Enreach" height="40"/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.kavehome.com"><img src="logos/kave-home.png" alt="Kave Home" height="40"/></a></td>
+    <td align="center"><a href="https://encomenda.vc"><img src="logos/encomenda.png" alt="Encomenda" height="40"/></a></td>
+    <td align="center"><a href="https://siroko.com"><img src="logos/siroko.png" alt="Siroko" height="40"/></a></td>
+    <td align="center"><a href="https://www.ifco.com"><img src="logos/ifco.png" alt="IFCO" height="40"/></a></td>
+    <td align="center"><a href="https://trlln.io"><img src="logos/trlln.png" alt="TRLLN" height="40"/></a></td>
+  </tr>
+</table>
 
 ## 💼 Investor & Board Advisor
 
