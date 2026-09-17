@@ -66,6 +66,14 @@ Investor and Venture Partner at [Encomenda](https://encomenda.vc), helping early
 
 Board Advisor at [Siroko](https://siroko.com), a fast-growing Spanish sportswear e-commerce brand offering high-quality gear for cycling, skiing, golf, padel, and more to athletes worldwide.
 
+### WealthMaia 🤖
+
+Investor at [WealthMaia](https://www.wealthmaia.com), an AI-powered fintech that connects your brokers, analyzes your portfolio, and alerts you to market moves that actually affect your investments.
+
+### Conector Startup Accelerator 🚀
+
+Investor at [Conector](https://conector.com), one of Barcelona's top startup accelerators, founded by leading entrepreneurs and business angels of the Spanish tech scene.
+
 ## 📖 Book Author
 
 ### Domain-Driven Design in PHP (2016) 📙
