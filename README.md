@@ -1,8 +1,8 @@
 # ❤️ Why, How, and What
 
-[![LinkedIn followers](https://img.shields.io/static/v1?label=linkedin%20followers&message=15.2k&color=blue&logoColor=blue&logo=linkedin&style=flat-square)](https://www.linkedin.com/in/carlosbuenosvinos/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/buenosvinos?label=twitter%20followers&color=lightblue&logoColor=lightblue&logo=twitter&style=flat-square)](https://twitter.com/buenosvinos)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPOAykv_UgFa79_mub4Orbw?label=youtube%20followers&color=red&logoColor=red&logo=youtube&style=flat-square)](https://www.youtube.com/user/carlosbuenosvinos)
+[![LinkedIn followers](https://img.shields.io/static/v1?label=linkedin%20followers&message=17k&color=blue&logoColor=blue&logo=linkedin&style=flat-square)](https://www.linkedin.com/in/carlosbuenosvinos/)
+[![X Follow](https://img.shields.io/static/v1?label=%40buenosvinos&message=follow&color=black&logo=x&style=flat-square)](https://x.com/buenosvinos)
+[![YouTube](https://img.shields.io/static/v1?label=youtube&message=%40carlosbuenosvinos&color=red&logoColor=red&logo=youtube&style=flat-square)](https://www.youtube.com/user/carlosbuenosvinos)
 [![GitHub followers](https://img.shields.io/github/followers/carlosbuenosvinos?label=github%20followers&color=black&logoColor=black&logo=github&style=flat-square)](https://github.com/carlosbuenosvinos)
 
 > **I have a mission, teams that excel.** I help tech teams become their best version.
@@ -14,6 +14,16 @@
 ## 💪 Consultant
 
 ![Logos](logos-white-background.png)
+
+## 💼 Investor & Board Advisor
+
+### Encomenda 💰
+
+Investor and Venture Partner at [Encomenda](https://encomenda.vc), helping early-stage startups grow from seed to scale. We back founders building the next generation of tech companies in Spain and beyond.
+
+### Siroko 🏂
+
+Board Advisor at [Siroko](https://siroko.com), a fast-growing Spanish sportswear e-commerce brand offering high-quality gear for cycling, skiing, golf, padel, and more to athletes worldwide.
 
 ## 📖 Book Author
 
