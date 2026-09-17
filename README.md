@@ -51,6 +51,9 @@ Over the years I've collaborated with a broad range of companies as consultant, 
     <td align="center"><a href="https://www.ifco.com"><img src="logos/ifco.png" alt="IFCO" height="40"/></a></td>
     <td align="center"><a href="https://trlln.io"><img src="logos/trlln.png" alt="TRLLN" height="40"/></a></td>
   </tr>
+  <tr>
+    <td align="center" colspan="5"><a href="https://www.qualifyze.com"><img src="logos/qualifyze.png" alt="Qualifyze" height="40"/></a></td>
+  </tr>
 </table>
 
 ## 💼 Investor & Board Advisor
